@@ -1,0 +1,94 @@
+# V4.0 File Manifest
+
+- Package: `Agent_Engineering_Architecture_Handbook_V4.0`
+- Generated: 2026-11-03
+- Markdown documents: 86
+- Files listed below exclude this manifest itself.
+
+| File | Bytes | SHA-256 |
+|---|---:|---|
+| `00-Architecture/01-System-Architecture-Blueprint.md` | 4493 | `7dc6660884a6c904a3fe3d2da76addf62104197a4a9538d139095077a336cb4d` |
+| `00-Architecture/02-Design-Principles-and-Tradeoffs.md` | 3134 | `f38390ed2cac555432b79eb3d4fe31147717c7127e123c5c242e497635cd766b` |
+| `00-Architecture/03-Subsystem-Map-and-Dependency-Rules.md` | 2384 | `978091399fdf10684c65609f12b9e7f5b31d4b102f2ff816a8d349369ce2cc43` |
+| `00-Architecture/04-End-to-End-Sequence-Diagrams.md` | 4264 | `ea5a31dcab7b8c9721c5921446264bde049e07adecd0ad8a666d5bc677ee5a41` |
+| `00-Architecture/05-Implementation-Readiness-and-First-90-Days.md` | 2894 | `6f1663672943efb9c09133c3dc8c92953296b4e6e9098a7d3c77c5d6f96b2c4a` |
+| `00-Architecture/Documentation-Map.md` | 6901 | `40e21bc21647b7ffc3b9f27f506ca101b7d526c34c5c799eacd283182d0b5418` |
+| `01-Foundations/Agent-Definition-Model-and-Release.md` | 3106 | `24558fbf4adcf36d66cad3b24285301db8c1112a84053bb27ff12529e7d5549a` |
+| `01-Foundations/Model-API-Parameter-Mapping-and-Compatibility.md` | 3790 | `d2f94832288a02719526eb3f343925c0e9ec984eda87b815404ce283aa928b2d` |
+| `01-Foundations/Model-API-State-and-Tool-Call-Semantics.md` | 2749 | `85b514e4417e2fdad196a677b436a51549242cc746b08a162af74217518ce455` |
+| `01-Foundations/Model-Provider-Adapter-Reference-Implementation.md` | 4220 | `e81cf78d3eda53cf93aa6d1705ce0bda7525fbb2726c089a041c6bea556134ff` |
+| `01-Foundations/Model-Provider-Adapter-and-Capability-Matrix.md` | 4059 | `40548ca31a76dfbbdf8272536e9a295ba6c33eca827899babbf5e3d2693d0250` |
+| `01-Foundations/Prompt-Architecture-and-Structured-Output.md` | 2527 | `a52f3f3fe988e821d8a154207472e3244bacd6d646af24a511fe29b0ddbe0332` |
+| `01-Foundations/Python-Async-Concurrency-and-Cancellation.md` | 3084 | `86047986151d2bcf54878a42266c5c154f6472840a12d7b059b299d7311a8200` |
+| `02-Harness-and-Runtime/Agent-Lifecycle-and-Resource-Isolation.md` | 2301 | `6d5f0828252083aecf4b81a1b886a433ec720522fae3a2f75df9e43b30e4e2b3` |
+| `02-Harness-and-Runtime/Agent-Loop-Engine.md` | 6425 | `6a762c560fec99c8277bc4fb4ea4562bea25b21db64ab71ede31bf32d663b969` |
+| `02-Harness-and-Runtime/Agent-Loop-Parallel-Tool-and-Retry-Algorithms.md` | 4194 | `9306f689ff45446f5a124769892986ea22ab766c86450f8bac811b000dc0225e` |
+| `02-Harness-and-Runtime/Agent-Loop-Reference-Implementation.md` | 4571 | `2b296f5e67739545345f37c7a59da320ecf7cfe499d8866ae7e76e6b21660bb1` |
+| `02-Harness-and-Runtime/Agent-Loop-Tests-and-Failure-Matrix.md` | 3149 | `e6c7a80668d540362dc1eb03f4bb61b5abf1e758ba2b6086cec6eb192159fc6b` |
+| `02-Harness-and-Runtime/Harness-Architecture-and-Composition.md` | 9464 | `28f2b386e62ba79d77f9d5ff25f008dd3fd05a9594094e762c838c84ddae1603` |
+| `02-Harness-and-Runtime/Harness-Assembly-Sequence-and-Dependency-Graph.md` | 4239 | `0619b8641f5d61812fc9f19649f24a5fd205152cab575d1b27ec8285c7b7dabc` |
+| `02-Harness-and-Runtime/Middleware-Hooks-and-Execution-Pipeline.md` | 2289 | `556b6bc87db7c3b499a11b8a87d67c87fb9f1508e4001bf43d599fcaaa535f49` |
+| `02-Harness-and-Runtime/Runtime-Factory-Container-and-DI.md` | 3352 | `0e13715669caaad9c91dae6999b02641492e218967a7db039cc5fe4d2fa0864f` |
+| `03-LangGraph-and-Orchestration/Checkpoint-Persistence-and-State-Migration.md` | 2476 | `aadd1b08e45f96c05f625e468635138c69399c87c5efd1d8e0860a5306fdfcfa` |
+| `03-LangGraph-and-Orchestration/Interrupt-Human-Resume-and-Recovery.md` | 2321 | `8ef7e7d490a89a3abd879dede0353d835738644e3d84e32345ba1559a69be768` |
+| `03-LangGraph-and-Orchestration/LangGraph-Graph-Patterns-State-Reducer-and-Migration.md` | 3413 | `2e148e0fe4525afd082a3e25fff6bf1129ee9b1fc64ae9185347e0f7bc1ec859` |
+| `03-LangGraph-and-Orchestration/LangGraph-Python-StateGraph-Implementation.md` | 8435 | `c76371bdc985d601ef0832009f1bf5fa220506bb1f4cf6ff71adf6dced6abe1c` |
+| `03-LangGraph-and-Orchestration/Multi-Agent-Delegation-and-Coordination.md` | 5177 | `0b5dac296ba0111b7cf53655c8ea0eb6c5640183bd9e2153d47259dd36546fa2` |
+| `03-LangGraph-and-Orchestration/Multi-Agent-Supervisor-Protocol-and-Budgeting.md` | 3261 | `03f7c360ee9b9daae4019fc45c81aef35e31fb2c408a2e6af2265dd1ce6740a8` |
+| `03-LangGraph-and-Orchestration/State-Schema-Reducer-and-Checkpoint-Reference.md` | 3254 | `578e009ec489fdb0bd48db794316bce7af93d9945f5734c977318e14cfa052cf` |
+| `04-Context-and-Memory/Context-Compiler-Algorithms-and-Reference-Implementation.md` | 3997 | `c1ad42686d0f68b82ce4c0161d1e92a1dfd0bd521dc4ba85e914145b7218ec80` |
+| `04-Context-and-Memory/Context-Compiler-Architecture.md` | 6311 | `90442c64b419ae38648de928b43ecd942646c4729cc206f30699d03309df46f0` |
+| `04-Context-and-Memory/Context-Priority-Token-Budget-and-Compression.md` | 2919 | `84bb18d54daa374068e526267c64ef9a724072137cb27ac66629ee8eabc6153d` |
+| `04-Context-and-Memory/Context-Token-Budget-Worked-Example.md` | 2895 | `b03fd81ea190a08a73f54e28f309ae58f5c5bb76fafe60b6305bc3dbf1356047` |
+| `04-Context-and-Memory/Memory-Engine-Architecture-and-Data-Model.md` | 5478 | `036d7b979eea9ce71d02f2c1791dbb09b4e9d2af36f794f56118ef371ed253b8` |
+| `04-Context-and-Memory/Memory-Extraction-Conflict-Merge-and-Forgetting.md` | 2944 | `80bee5388da9bdf554d7c0bbe9ed19853f51943ba74a47661253acc773275527` |
+| `04-Context-and-Memory/Memory-Scoring-Retrieval-and-Governance-Algorithms.md` | 2872 | `f365bd5ce85dfb84c5382071a422ba8a4cfff77b483b40894570ccc1d01741d5` |
+| `04-Context-and-Memory/RAG-Ingestion-Retrieval-and-Citations.md` | 3022 | `262b369ea2bb29ccba04ab6f723f9b67c8bc0b2c5f745d284ee0c9e1f347ca75` |
+| `05-Business-Catalog/Business-System-Intelligence-and-Catalog.md` | 6251 | `b89bdbb348eb7e21693f536b1b18f4d3085a285093fb19e93dfc493d849c7bf4` |
+| `05-Business-Catalog/Catalog-Compiler-Python-Scanners-and-Drift.md` | 3133 | `9083cfe37f7a98aeea5df3a613e0a6e4be10454f702d07b892d2f10c6cd94d61` |
+| `05-Business-Catalog/Catalog-Drift-Detection-and-Release-Workflow.md` | 2584 | `a88d9a42767ce630a3479b33722198f58d1f9f792b21e18e2caeda6d2637b213` |
+| `05-Business-Catalog/Catalog-Entity-Capability-Relationship-Model.md` | 3451 | `0a948d7425c8303a1fa7a50ef4dedfe35c960a2ef566aee8dbb696fac1993998` |
+| `05-Business-Catalog/Catalog-Python-AST-Scanner-Implementation.md` | 3549 | `2f156a4a6eae10107aae2ecae5fc51137017d4603b77f949b56299f97128760f` |
+| `06-Tools-and-Discovery/Dynamic-Tool-Discovery-Search-Describe-Invoke.md` | 2920 | `396ff72093ffce15604e8e1b73cbb0a3ecda99287003d024eaaef87752fae0e4` |
+| `06-Tools-and-Discovery/Tool-Execution-State-Machine-and-Idempotency.md` | 2729 | `97b952b26d05a227174294b9c2a168ac8f76de46a7127014b19405e4f39f87cc` |
+| `06-Tools-and-Discovery/Tool-Executor-Policy-Idempotency-and-Transactions.md` | 2743 | `ca9e0a2f0110a793a663cb592074bc51b4669bb7dbbc8be43de2b9ce136ef1ec` |
+| `06-Tools-and-Discovery/Tool-Registry-Executor-Contract-Implementation.md` | 4164 | `20fa3cdeee0ee6498be0b816a36fd7a5ff7542d184950c7c61b801d2622e72da` |
+| `06-Tools-and-Discovery/Tool-Registry-Schema-and-Versioning.md` | 5114 | `25b1e6cb200ce4a76ef21f7caca38cb6d6c729cf166ebd5624c327063fb38e55` |
+| `06-Tools-and-Discovery/Tool-Search-Algorithm-and-Benchmark.md` | 2406 | `779d628d018afbd1b452ae743a34a9b70fc9f04b7b0c46c4a7f6bbd0ec254e91` |
+| `07-Skills-Plugins-and-MCP/MCP-Client-Server-Integration.md` | 2455 | `3aa03e3946af70ca830d60b04251fe99562ac20e1d2e0785644d359939d87cb9` |
+| `07-Skills-Plugins-and-MCP/MCP-Trust-Boundary-and-Server-Management.md` | 2918 | `2b724404071ace1da0b6cb7bb8a157ab7a8c3ef25437d1b0f468d87a308e24c3` |
+| `07-Skills-Plugins-and-MCP/Plugin-Host-API-and-Scope-Management.md` | 2377 | `94fb05a83a94ae8bc4484daf5774e6fca328167fd65372cd36b861c2599a6b55` |
+| `07-Skills-Plugins-and-MCP/Plugin-System-Manifest-SDK-Lifecycle.md` | 4131 | `aa801143fd27f311097dbf6349462c38fee31422ec058e4912cc8953fed3e53f` |
+| `07-Skills-Plugins-and-MCP/Sandbox-Execution-and-Supply-Chain.md` | 2141 | `1deaa35590f901a977fc45dd1c8ed2ea09a1218b74156e5693866a276c9ae39d` |
+| `07-Skills-Plugins-and-MCP/Skill-Package-Loader-and-Validation.md` | 2456 | `1d6b2970532259c89ca9f0fabc6a50ba1cddba8ce0869a2d8c45c0325c86e869` |
+| `07-Skills-Plugins-and-MCP/Skills-System-SKILL-md-and-Progressive-Disclosure.md` | 3797 | `e94a45d60dd8cf287f70c3794b78f4aa3a1945daf8dcec3af48618b6b699089b` |
+| `08-Security-and-Governance/Approval-Intent-Binding-and-TOCTOU.md` | 2499 | `bafb14a8ba27e29b260e3ce366ad0dd3ccf1a933e292f29cb98ad5662a9313bc` |
+| `08-Security-and-Governance/Audit-Privacy-and-Data-Retention.md` | 3108 | `111416554b7881997bf6aaa069e9f375451f2ade35e2887195af7b8f3435dbe6` |
+| `08-Security-and-Governance/HITL-Approval-and-Intent-Binding.md` | 2020 | `39e257f86f7efb4638893157e497f0e2f23e72b9bf3b14f5a45124aecb3483e8` |
+| `08-Security-and-Governance/Identity-Tenant-RBAC-ABAC.md` | 3935 | `d32909559fe1a8803a48987a16ee8b3127668254b29bdb534fca9ae544b63991` |
+| `08-Security-and-Governance/Policy-Engine-Decision-Model.md` | 2883 | `50a68e753a506369b12d3ff91afc8981bf72a5fff3ef8fd5061f0cc85fcdb8d0` |
+| `08-Security-and-Governance/Policy-Engine-PDP-PEP-Implementation.md` | 4661 | `736d4bb957801ba56c78342b437ea46c1ca8fff167dd897be106e1bc71ccb9c3` |
+| `08-Security-and-Governance/Prompt-Injection-and-Untrusted-Content.md` | 2872 | `1f52e2b3d9c7bc533a464535c32c91a0171d97229c140d06ede25e8e865018c8` |
+| `09-Evaluation-and-Observability/Evaluation-Dataset-Format-and-Trajectory-Schema.md` | 3029 | `21cba1811801567ef54192bf60448c884eacca50907268570d53ce4eab313286` |
+| `09-Evaluation-and-Observability/Evaluation-Dataset-Trajectory-and-Golden-Cases.md` | 2726 | `a82c4b81e1d82cbb1ff2e504ad92486cb7e59088d99ec0ccc00849d12c2436cf` |
+| `09-Evaluation-and-Observability/Evaluation-Runner-and-Release-Gate-Implementation.md` | 3276 | `f8539992980de95dc1cdbbf3b93385e071f1e19f9809c76ee8aabf371ec5109b` |
+| `09-Evaluation-and-Observability/Evaluators-LLM-Judge-and-Metrics.md` | 2760 | `ec4cc8577411e5f5244e45ac5d0ab7ad46df757c411b70b93071b536c3849a40` |
+| `09-Evaluation-and-Observability/Regression-Experiment-and-Release-Gates.md` | 2351 | `483937d4e8cd86f0eec7b7f1147e6e832fbd9d10cb2b41ed74881b52bda7c7cd` |
+| `09-Evaluation-and-Observability/Tracing-Metrics-Logs-and-Trajectory.md` | 2946 | `a4d4664e818c0ad5fdf29041bbebe34f759b8330ce2277fe8c2f2fdb1779c93a` |
+| `10-Application-and-Platform/Event-Streaming-and-Client-Protocol.md` | 2480 | `02dcb7cf3fab7e286b99e64912abd53c6936d8726f541ffb481d01970941b7dd` |
+| `10-Application-and-Platform/FastAPI-Application-Run-Job-and-Event-API.md` | 2365 | `df7371b4de972ea33b29fa1aa06f60aff78f68cd7a0315daf41ad4d512fd883c` |
+| `10-Application-and-Platform/Production-Deployment-SLO-and-Capacity.md` | 2484 | `14310e1aa101a730c68f55e47b1e76cbf8bb07733b00415acf47c784a01ec138` |
+| `10-Application-and-Platform/Run-State-Machine-and-Recovery.md` | 2556 | `ec135f478bdb5f55e9548a643d4f20ee18883b9e82024975f1564607c6cc0848` |
+| `10-Application-and-Platform/Worker-Queue-Scheduler-and-Lease.md` | 2377 | `da214295c63ef5bbe10d25e922478356d26fb16e7fe24ebdb1163e611ec3b292` |
+| `11-Data-Model-and-Implementation/Database-Partitioning-Indexes-and-Retention.md` | 2346 | `57bf38426ba800a9ea791243f498db7814e4f43b4a709be216a1a86c9d004dcb` |
+| `11-Data-Model-and-Implementation/End-to-End-Business-Agent-Case.md` | 3659 | `f9e8de0d9e49a8df661d51c0feaef1486f10a734b5c0c55f81141abfd6767fc3` |
+| `11-Data-Model-and-Implementation/Implementation-Roadmap-and-Release-Gates.md` | 2228 | `08482320e1c750716b8ace67b3ba5c530fdf13e2f801152846469563e48a22ed` |
+| `11-Data-Model-and-Implementation/PostgreSQL-Data-Model-and-DDL.md` | 19802 | `6769760f0fb1809526b420cfca40fd2fb468a60377320f13fc5804b69010eb1f` |
+| `11-Data-Model-and-Implementation/Python-Reference-Implementation-Skeleton.md` | 4489 | `5a67013d2c645fb4fe6252478b06e10232c8b77256bcbdeba432d2bddd351337` |
+| `11-Data-Model-and-Implementation/Python-Repository-Structure-and-Code-Contracts.md` | 4071 | `2d359456df77591d27d1a040c2def649c9ebd311d3a1d63cef02626fd0330631` |
+| `12-Reference-Projects/Reference-Project-Comparison-and-Adoption-Matrix.md` | 3051 | `a1dc187c7f17414089d292286bbc8279e99d22afc0fd58b282ed907f9de17578` |
+| `13-Appendices/Architecture-Decision-Records-and-Review-Checklist.md` | 2813 | `1fe4bf425b7971184094c64b7bb9b7197a742c9b187a611a810df6954f888332` |
+| `13-Appendices/Glossary-Version-Policy-and-Official-Sources.md` | 3067 | `ef3c938b9b79f5d413765f7fc4596dd471bcf99c16374923b827a0313dfaa399` |
+| `13-Appendices/V3-to-V4-Change-Mapping.md` | 2504 | `24226f4e093a5e601c523c9511165c4123424f740114fbf27c32bb70d2b7266e` |
+| `CHANGELOG.md` | 2148 | `673a328c35524d110cbed8db194249dee7fe81f8d24613a4e7d867fe3fe3674f` |
+| `README.md` | 7183 | `3f8717326c21127180ec4bccc325d114f75d98288c6f3e856f8c8354808c1b1c` |
